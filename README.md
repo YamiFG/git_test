@@ -1,1 +1,2 @@
-# git_test
+Hello world!
+Im practicing programming, its difficult 
